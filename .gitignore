@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Playwright test results & reports
+test-results/
+playwright-report/
+blob-report/
+*.zip
+
+# Logs & system files
+*.log
+.DS_Store
+.env
